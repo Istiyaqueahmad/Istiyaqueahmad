@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Istiyaque Ahmad</h1>
 <h3 align="center">A passionate about Data Engineering</h3>
-https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiyaqueahmad&label=Profile%20views&color=0e75b6&style=flat" alt="istiyaqueahmad" /> </p>
 
 - 🔭 I’m currently working on **ETL Projects**
