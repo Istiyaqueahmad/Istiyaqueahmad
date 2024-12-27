@@ -2,11 +2,11 @@
 <h3 align="center">A passionate about Data Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiyaqueahmad&label=Profile%20views&color=0e75b6&style=flat" alt="istiyaqueahmad" /> </p>
 
-- 🔭 I’m currently working on **ETL Projects**
+- 🔭 I’m currently working on **ETL Projects And Data Sciene AI projets**
 
-- 🌱 I’m currently learning **Big Query GCP Fusion beam**
+- 🌱 I’m currently learning **AI Gen Machine Learning Using LLM Models RAG Tehnology**
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Data Engineering and Data Science**
 
 - 📫 How to reach me **istiyak.mba@gmail.com**
 
