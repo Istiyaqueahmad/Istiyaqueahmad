@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Istiyaque Ahmad</h1>
-<h3 align="center">AI Data Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiyaqueahmad&label=Profile%20views&color=0e75b6&style=flat" alt="istiyaqueahmad" /> </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to My GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-- 🔭 I’m currently working on **ETL Projects And Data Sciene AI projets**
+<h2 align="center">Senior Data Engineer | AI/ML & Data Science Specialist <br> 🚀 Python | PySpark | GenAI | Big Data | Cloud | MLOps 🚀</h2>
 
-- 🌱 I’m currently learning **AI Gen Machine Learning Using LLM Models RAG Tehnology**
-
-- 💬 Ask me about **Data Engineering and Data Science**
-
-- 📫 How to reach me **istiyak.mba@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/istiyaque-ahmed-33403598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiyaque-ahmed-33403598" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Istiyaqueahmad"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Data+Engineer;AI/ML+Engineer;GenAI+%26+RAG+Developer;MLOps+Architect;Big+Data+Specialist&font=Pacifico&center=true&width=650&height=120&color=27ff00&vCenter=true&size=35"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/istiyaqueahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:istiyak.mba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~01334cde3ce8ce52c1"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiyaqueahmad&show_icons=true&locale=en&layout=compact" alt="istiyaqueahmad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiyaqueahmad&show_icons=true&locale=en" alt="istiyaqueahmad" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiyaqueahmad&" alt="istiyaqueahmad" /></p>
+I'm a **Senior Data Engineer & AI/ML Professional** with **13+ years of experience** designing, building, and optimizing large-scale data pipelines, machine learning models, and analytics platforms across **Construction**, **Banking & Finance**, **Retail**, and **Telecom** domains.
+
+- 🏗️ Expert in building **end-to-end data pipelines** using **Spark**, **Kafka**, **Airflow**, and **dbt** across **AWS**, **Azure**, and **GCP**
+- 🧠 Skilled in **Machine Learning & Deep Learning** — XGBoost, CNNs, YOLOv5/v8, RAG, and LLM-based systems using **LangChain** and **Hugging Face**
+- 🤖 Growing focus on **Generative AI** — building RAG pipelines, vector search systems, and LLM-powered data workflows
+- ☁️ Deep expertise in **Azure Data Factory, Synapse, Databricks**, and **AWS Glue, EMR, Redshift** for scalable data warehousing
+- 🐳 Strong **MLOps & DevOps** practices — Docker, Kubernetes, Terraform, CI/CD, and MLflow for production-grade ML deployment
+- 📊 Proficient in **BI & Visualization** — Power BI, Tableau, Plotly for turning data into decisions
+- 🎓 Microsoft Certified: **Azure Data Engineer Associate (DP-203)** & **Azure AI Engineer Associate (AI-102)**
+
+---
+
+## 🛠️ Core Expertise
+
+- 🐍 **Programming & Scripting:** Python, PySpark, Scala, SQL, T-SQL, R
+- 🌊 **Big Data & Streaming:** Hadoop, Hive, Spark, Kafka, Flume, Sqoop, HBase, Presto
+- 🏢 **Data Warehousing & ETL:** Snowflake, Redshift, Azure Synapse, BigQuery, dbt, SSIS/SSAS/SSRS
+- ☁️ **Cloud Platforms:** AWS (EMR, Glue, Lambda, S3, Redshift), Azure (Data Factory, Synapse, Databricks), GCP (BigQuery)
+- 🔄 **Orchestration:** Apache Airflow, AWS Step Functions, Power Automate
+
+---
+
+## 🤖 AI, ML & Generative AI
+
+- 🧠 **Machine Learning:** XGBoost, SVM, Classification, Clustering, Isolation Forest
+- 🕸️ **Deep Learning:** CNN, RNN, BERT, YOLOv5/v8, Computer Vision, PyTorch, TensorFlow, Keras
+- 💬 **Generative AI / LLMs:** RAG pipelines, LangChain, Hugging Face Transformers, prompt engineering, LLM-powered chatbots
+- 🔎 **Vector Search:** FAISS, pgvector, Pinecone, embeddings-based semantic retrieval
+- 🔬 **MLOps:** MLflow, Azure ML, Docker, Kubernetes, Terraform, CI/CD
+
+---
+
+## 🌍 Industry Domains
+
+- 🏗️ Construction
+- 🏦 Banking & Finance
+- ✈️ Airline
+- 🛒 Retail & E-commerce
+- 📡 Telecom
+- 📈 Marketing
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Generative AI
+- 💬 **Language Translator App (English–Arabic)** — Built using Python, Streamlit, and IBM Watson; deployed on Heroku
+- 🛍️ **Product
 
